@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Srishtichaubey
-- 👀 I’m interested in software development,multi-objective optimization techniques and AI algorithms
-- 📫 You can reach me at srishtichaubey1@gmail.com
+- 👀 I’m a Software Engineer with a Diploma and Bachelors in Computer Science.
+- Backend developer with a keen interest in Multi-Objective Optimization techniques, Image Processing, Cyber Security and AI/ML.
 
 <!---
 Srishtichaubey/Srishtichaubey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
